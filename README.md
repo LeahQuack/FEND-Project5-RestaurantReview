@@ -1,32 +1,24 @@
-# Mobile Web Specialist Certification Course
+# Udacity Front End Web Development Nanodegree Project 5 - Stage 1 - Restaurant Review
+## About
+This stage 1 project focuses on accessibility, responsiveness, and offline use.  Stages 2 and 3 are more advanced.
+## Featuring
+* Mapbox API for viewing restaurant locations
+* Leaflet for pinpoints
+* Filter between neighborhood locations or cuisine types OR filter both for a more narrow result
+* Responsive design allows for use on any device
+* Restaurant snapshots to view the look & feel of each location
+* Check address, hours, and reviews
 ---
-#### _Three Stage Course Material Project - Restaurant Reviews_
-
-## Project Overview: Stage 1
-
-For the **Restaurant Reviews** projects, you will incrementally convert a static webpage to a mobile-ready web application. In **Stage One**, you will take a static design that lacks accessibility and convert the design to be responsive on different sized displays and accessible for screen reader use. You will also add a service worker to begin the process of creating a seamless offline experience for your users.
-
-### Specification
-
-You have been provided the code for a restaurant reviews website. The code has a lot of issues. It’s barely usable on a desktop browser, much less a mobile device. It also doesn’t include any standard accessibility features, and it doesn’t work offline at all. Your job is to update the code to resolve these issues while still maintaining the included functionality. 
-
-### What do I do from here?
-
-1. In this folder, start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer. 
-
-In a terminal, check the version of Python you have: `python -V`. If you have Python 2.x, spin up the server with `python -m SimpleHTTPServer 8000` (or some other port, if port 8000 is already in use.) For Python 3.x, you can use `python3 -m http.server 8000`. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
-
-2. With your server running, visit the site: `http://localhost:8000`, and look around for a bit to see what the current experience looks like.
-3. Explore the provided code, and start making a plan to implement the required features in three areas: responsive design, accessibility and offline use.
-4. Write code to implement the updates to get this site on its way to being a mobile-ready website.
+### Install & Run Locally:
+1. Download this repository
+2. Check your version of python in your terminal using `pthon -V`
+3. Start your server:
+  -For Python 2.x: `python -m SimpleHTTPServer 8000` (or whichever port is not in use)
+  -For Python 3.x: either `python3 -m http.server 8000` or `py -m http.server 8000` (or whichever port is not in use)
+4. Visit http://localhost:8000 (or whichever port you used) and navigate to `index.html`
 
 ## Leaflet.js and Mapbox:
-
-This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). You need to replace `<your MAPBOX API KEY HERE>` with a token from [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information. 
-
-### Note about ES6
-
-Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write. 
+This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/).
 
 
 
