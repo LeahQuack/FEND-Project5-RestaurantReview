@@ -1,7 +1,7 @@
 # Udacity Front End Web Development Nanodegree Project 5 - Stage 1 - Restaurant Review
 
 ## About
-This stage 1 project focuses on accessibility, responsiveness, and offline use.  Stages 2 and 3 are more advanced.
+This stage 1 project focuses on accessibility, responsiveness, and offline use by showcasing a simple restaurant app.
 
 ## Featuring
 * [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/) for map and pinpoint locations
