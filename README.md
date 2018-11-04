@@ -22,7 +22,12 @@ This stage 1 project focuses on accessibility, responsiveness, and offline use b
 #### Future Features:
 * Favorites
 * Write a review
-
+---
+### Resources Used/ Inspired By/ Learned From:
+* [Matthew Cranford Walkthru](https://matthewcranford.com/restaurant-reviews-app-walkthrough-part-1-map-api/)
+* [Mike K Service Worker Fix](https://docs.google.com/presentation/d/1T_LHDAa7QXdNS7icNXz80d5KebDerqUdGZpg7jafLnw/edit#slide=id.g3c7f3ec099_0_2)
+* [Ryan Waite Walkthru](https://www.youtube.com/watch?v=dMutLUzVbIA&t=0s&list=PLKC17wty6rS1XVZbRlWjYU0WVsIoJyO3s&index=5]
+* The awesome GWG FEND Slack Community
 
 
 
