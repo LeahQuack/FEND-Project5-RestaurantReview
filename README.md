@@ -13,7 +13,7 @@ This stage 1 project focuses on accessibility, responsiveness, and offline use b
 ---
 ### Install & Run Locally:
 1. Download this repository
-2. Check your version of python in your terminal using `pthon -V`
+2. Check your version of python in your terminal using `python -V`
 3. Start your server in your terminal:
   -For Python 2.x: `python -m SimpleHTTPServer 8000` (or whichever port is not in use)
   -For Python 3.x: either `python3 -m http.server 8000` or `py -m http.server 8000` (or whichever port is not in use)
